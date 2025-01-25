@@ -1,0 +1,1 @@
+concat --ignore pnpm-lock.yaml --ignore CONTRIBUTING.md --ignore LICENSE --ignore "**/*.jpg" --ignore "**/*.*css" --ignore "**/*.svg" --ignore "**/*.snap" --ignore ".github/ISSUE_TEMPLATE/**"
